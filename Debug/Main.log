@@ -1,0 +1,12 @@
+﻿  Main.cpp
+D:\Administrator\Files\BSU\1ST YEAR\SECOND SEM\Computer Programming\FINAL PROJECT\Main\drMenu.h(70,12): warning C4553: '==': result of expression not used; did you intend '='?
+D:\Administrator\Files\BSU\1ST YEAR\SECOND SEM\Computer Programming\FINAL PROJECT\Main\drMenu.h(75,12): warning C4553: '==': result of expression not used; did you intend '='?
+D:\Administrator\Files\BSU\1ST YEAR\SECOND SEM\Computer Programming\FINAL PROJECT\Main\dsMenu.h(66,12): warning C4553: '==': result of expression not used; did you intend '='?
+D:\Administrator\Files\BSU\1ST YEAR\SECOND SEM\Computer Programming\FINAL PROJECT\Main\dsMenu.h(71,12): warning C4553: '==': result of expression not used; did you intend '='?
+D:\Administrator\Files\BSU\1ST YEAR\SECOND SEM\Computer Programming\FINAL PROJECT\Main\password.h(80,1): warning C4102: 'start2': unreferenced label
+  dsMenu.cpp
+D:\Administrator\Files\BSU\1ST YEAR\SECOND SEM\Computer Programming\FINAL PROJECT\Main\dsMenu.h(66,12): warning C4553: '==': result of expression not used; did you intend '='?
+D:\Administrator\Files\BSU\1ST YEAR\SECOND SEM\Computer Programming\FINAL PROJECT\Main\dsMenu.h(71,12): warning C4553: '==': result of expression not used; did you intend '='?
+  fMenu.cpp
+  Generating Code...
+  Main.vcxproj -> D:\Administrator\Files\BSU\1ST YEAR\SECOND SEM\Computer Programming\FINAL PROJECT\Main\Debug\Main.exe
